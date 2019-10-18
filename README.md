@@ -28,6 +28,6 @@ Matlab
 **N:** --an integer between 0 and 10, construct (N% * number of data points) pairwise constraints.
 
 ### Sample
-You can run `one_sample.m` to learn how to use this code.
+You can run `one_sample.m` as `one_sample('Chainlink')` to learn how to use this code.
 
 
