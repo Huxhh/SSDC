@@ -30,7 +30,7 @@ Matlab
 ### Sample
 You can run `one_sample.m` as `one_sample('Chainlink')` to learn how to use this code.
 
-### Citation
+## Citation
 If the code is used in your research, please star our repo and cite our paper as follows:
 ```
 @article{Ren2018Semi,
