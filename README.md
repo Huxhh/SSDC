@@ -30,4 +30,16 @@ Matlab
 ### Sample
 You can run `one_sample.m` as `one_sample('Chainlink')` to learn how to use this code.
 
+### Citation
+If the code is used in your research, please star our repo and cite our paper as follows:
+```
+@article{Ren2018Semi,
+  title={Semi-supervised DenPeak Clustering with Pairwise Constraints},
+  author={Ren, Yazhou and Hu, Xiaohui and Ke, Shi and Yu, Guoxian and Yao, Dezhong and Xu, Zenglin},
+  booktitle={PRICAI 2018: Trends in Artificial Intelligence},
+  pages={837--850},
+  year={2018},
+}
+```
+
 
